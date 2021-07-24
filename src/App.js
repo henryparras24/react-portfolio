@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 export default function App() {
   return (
@@ -12,14 +13,15 @@ export default function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path="/" exact component={Home}/>
+          <Route exact path="/"  component={Home}/>
         </Switch>
         <Switch>
-          <Route path="/projects" exact component={Projects}/>
+          <Route exact path="/projects"  component={Projects}/>
         </Switch>
         <Switch>
           <Route exact path="/contact" component={Contact}/>
         </Switch>
+        <Footer />
         </Router>
     </>
   )
