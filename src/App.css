@@ -1,12 +1,14 @@
 *{font-family: 'Comfortaa', cursive;}
 
-.App-header {
-  background-color: dodgerblue;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  color: white;
+body {background-color: steelblue}
+
+/* .navbar {
+  background-color: white;
 }
+
+.foot{
+  background-color: white;
+} */
 
 .App-link {
   color: #61dafb;

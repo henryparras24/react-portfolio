@@ -1,10 +1,14 @@
 import React from 'react';
 import Navbar from "./Navbar";
+import Project from "./Project"
+import Data from "../data/projects.json"
 
 function Projects () {
     return (
     <div>
-        this is projects
+        {Data.map((projectsData)=>(
+            <Project projectsData={projectsData}/>
+        ))}
     </div>)
     
 }

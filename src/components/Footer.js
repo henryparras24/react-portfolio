@@ -6,7 +6,7 @@ import { Link } from "react-router-dom";
 function Footer() {
 
     return(
-        <div>
+        <div className="foot">
             <p>This is my footer</p>
             <ul >
                 {/* <li className="links">
