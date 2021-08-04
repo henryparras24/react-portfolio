@@ -7,7 +7,7 @@ function Footer() {
 
     return(
         <div className="foot">
-            <p>This is my footer</p>
+            <a href="">&copy; Copyright 2021, HenryParras</a>
             <ul >
                 {/* <li className="links">
                     <Link to="https://www.linkedin.com/in/henry-parras-a98368209/">

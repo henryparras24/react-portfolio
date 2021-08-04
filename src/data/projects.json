@@ -1,44 +1,44 @@
 [
     {
-        "name": "henry",
-        "picture": "url",
-        "description": "desc",
-        "deployedLink": "link",
-        "githubLink": "link"
+        "name": "My Portfolio!",
+        "picture": "https://i.ibb.co/F7mqv4G/Portfolio-screen-shot.png",
+        "description": "My original portfolio with about me, projects, and contact information!",
+        "deployedLink": "https://henryparras24.github.io/Henrys-portfolio/",
+        "githubLink": "https://github.com/henryparras24/Henrys-portfolio"
     },
     {
-        "name": "henry",
-        "picture": "url",
-        "decription": "desc",
-        "deployedLink": "link",
-        "githubLink": "link"
+        "name": "Roadtrip!",
+        "picture": "https://i.ibb.co/fFgR9Xj/roadtrip.png",
+        "decription": "This is an app that allows the user to get yelp queries and a music playlist based on their city!",
+        "deployedLink": "https://henryparras24.github.io/roadtrip/",
+        "githubLink": "https://github.com/henryparras24/roadtrip"
     },
     {
-        "name": "henry",
-        "picture": "url",
-        "decription": "desc",
-        "deployedLink": "link",
-        "githubLink": "link"
+        "name": "Feel Your Feelings",
+        "picture": "https://i.ibb.co/rpfjMGD/feels.png",
+        "decription": "Feel your feelings is a fun app that gives the user a playlist and drink options based on their current mood.",
+        "deployedLink": "https://shrouded-lake-27009.herokuapp.com/",
+        "githubLink": "https://github.com/MarissaNancy/feel-your-feelings"
     },
     {
-        "name": "henry",
-        "picture": "url",
-        "decription": "desc",
-        "deployedLink": "link",
-        "githubLink": "link"
+        "name": "Out of Office",
+        "picture": "https://i.ibb.co/vP4nPBy/outofoffice.png",
+        "decription": "Out of Office is an app that allows the user to read about and also post vacation epxeriences!",
+        "deployedLink": "https://out-of-office-app.herokuapp.com/",
+        "githubLink": "https://github.com/jojonah1812/out-of-office"
     },
     {
-        "name": "henry",
-        "picture": "url",
-        "decription": "desc",
-        "deployedLink": "link",
-        "githubLink": "link"
+        "name": "Password Generator",
+        "picture": "https://i.ibb.co/Y7qk6zP/passwordgen.png",
+        "decription": "Password generator is a great app!",
+        "deployedLink": "https://henryparras24.github.io/password-generator/",
+        "githubLink": "https://github.com/henryparras24/password-generator"
     },
     {
-        "name": "henry",
-        "picture": "url",
-        "decription": "desc",
-        "deployedLink": "link",
-        "githubLink": "link"
+        "name": "Coding Quiz",
+        "picture": "https://i.ibb.co/Lk3W06d/popquiz.png",
+        "decription": "Pop quiz with coding questions!",
+        "deployedLink": "https://henryparras24.github.io/pop-quiz/",
+        "githubLink": "https://github.com/henryparras24/pop-quiz"
     }
 ]
